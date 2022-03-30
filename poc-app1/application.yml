@@ -2,3 +2,4 @@ spring:
   jackson:
     time-zone: America/Lima
     locale: ${MY_KEY}
+    secret: "{cipher}AQBEVl32LHNrvHJihH/kKnOvf/5BqNsfOP0mq385mH+rRdo08mXGPVAUe+6VW7B6MlgQwOyLKhg0ds8TAToRZhEm06ZCgR/3ZXFRPF6DUIiQjUrVhxajRYFwNo1mpEuRsmJS1dXQ5f/aCgycXuiiw+JZlhN6whmaFmh577FqHoApgZ9EXheYMjpf3hBOP02x0Jmmsx2fLCh6zAatwFAxFU+9ysW6yNmYVLQtcZWjcWt3n0ZHty885U5phmGE3fMfzlG1j92kD/RwsWid95ouQFW+RHSVcNK5U81qVEGgwzA1Yzu4o+wvXmR6tyb3VlKd/8BEFPqTAP/TtafEv3jwXoMG5zDh4GrcnLDrECHmdlH3OOk9qngKU0Jd34gwrKv2wfRxXbiV4X1f5U1ykiOtM+IK"
